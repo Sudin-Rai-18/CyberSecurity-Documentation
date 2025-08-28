@@ -13,4 +13,4 @@ Each folder contains detailed Markdown files, screenshots, code snippets, and re
 
 ---
 
-*Happy hacking!*
+
