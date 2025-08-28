@@ -9,9 +9,7 @@ Each folder contains detailed Markdown files, screenshots, code snippets, and re
 ---
 
 > **Why this repo?**x
-> - To track and revisit my progress
-> - To showcase my practical skills
-> - To help others on a similar journey
+> - Why not✌️
 
 ---
 
