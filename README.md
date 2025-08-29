@@ -9,8 +9,11 @@ Each folder contains detailed Markdown files, screenshots, code snippets, and re
 ---
 
 > **Why this repo?**x
-> - Why not✌️
+> - To track my progress
+> - and Why not✌️
 
 ---
+
+<align-item= 'center' Enjoy my repo!!</>
 
 
