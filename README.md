@@ -1,4 +1,4 @@
-🛡️ Cybersecurity Progress Repository
+# 🛡️ Cybersecurity Progress Repository
 
 Welcome to my cybersecurity documentation repo!  
 This space is dedicated to tracking, showcasing, and reflecting on my hands-on journey in cybersecurity—covering labs, CTFs, research, and practical skills development.
@@ -21,17 +21,13 @@ This space is dedicated to tracking, showcasing, and reflecting on my hands-on j
 
 ## 🗂️ Navigation
 
-- [Networking](./01-Networking/README.md)
-- [Web Security](./02-WebSecurity/README.md)
-- [CTFs & Walkthroughs](./03-CTFs/README.md)
-- [Writeups & Research](./04-Writeups/README.md)
-- [Resources & Notes](./99-Resources/notes.md)
+
 
 ---
 
-## ✍️ How I Document
+## ✍️ My Log Template
 
-Each topic or lab is documented in its own Markdown file, following a consistent template:
+Every session or lab is documented like this:
 
 1. **Objective** — What I set out to achieve
 2. **Methodology** — Tools used, steps taken, code snippets
@@ -54,7 +50,8 @@ Each topic or lab is documented in its own Markdown file, following a consistent
 
 ## 🚀 Let’s Connect
 
-Feel free to open issues or discussions if you want to collaborate or have feedback!
+Got tips, want to team up, or just want to say hi?  
+Drop a message or open an issue—always up for cyber talk!
 
 ---
 
