@@ -8,7 +8,7 @@ This space is dedicated to tracking, showcasing, and reflecting on my hands-on j
 ## 📁 Repository Structure
 
 ```
-
+In progress
 ```
 
 
@@ -17,7 +17,7 @@ This space is dedicated to tracking, showcasing, and reflecting on my hands-on j
 
 ## 🗂️ Navigation
 
-
+In Progress
 
 ---
 
