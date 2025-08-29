@@ -11,11 +11,7 @@ This space is dedicated to tracking, showcasing, and reflecting on my hands-on j
 
 ```
 
-- **01-Networking/** — Scanning, enumeration, and network analysis labs.
-- **02-WebSecurity/** — Web vulnerabilities, OWASP Top 10, and exploitation.
-- **03-CTFs/** — Walkthroughs and write-ups for CTF challenges (TryHackMe, HackTheBox, etc.).
-- **04-Writeups/** — Custom research, exploit development, and deep dives.
-- **99-Resources/** — Cheat-sheets, reference notes, and useful links.
+
 
 ---
 
