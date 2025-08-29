@@ -1,14 +1,4 @@
-# 🛡️ Cybersecurity Progress Repository
-
-Welcome to my hands-on cybersecurity documentation repo. Here you'll find a detailed, chronological, and technical log of my learning, labs, CTFs, and research.
-
-🛠️In Progress...
-
-Each folder contains detailed Markdown files, screenshots, code snippets, and reflections.
-
----
-
-> **Why this repo?**x# 🛡️ Cybersecurity Progress Repository
+🛡️ Cybersecurity Progress Repository
 
 Welcome to my cybersecurity documentation repo!  
 This space is dedicated to tracking, showcasing, and reflecting on my hands-on journey in cybersecurity—covering labs, CTFs, research, and practical skills development.
@@ -18,12 +8,7 @@ This space is dedicated to tracking, showcasing, and reflecting on my hands-on j
 ## 📁 Repository Structure
 
 ```
-.
-├── 01-Networking/
-├── 02-WebSecurity/
-├── 03-CTFs/
-├── 04-Writeups/
-└── 99-Resources/
+
 ```
 
 - **01-Networking/** — Scanning, enumeration, and network analysis labs.
